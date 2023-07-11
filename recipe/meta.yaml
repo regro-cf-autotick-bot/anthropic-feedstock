@@ -37,7 +37,6 @@ test:
 about:
   home: https://github.com/anthropics/anthropic-sdk-python
   license: MIT
-  license_file: MIT
   license_file: LICENSE
   summary: 'Library for accessing the anthropic API'
   doc_url: https://console.anthropic.com/docs
