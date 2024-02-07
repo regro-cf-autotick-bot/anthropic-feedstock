@@ -1,5 +1,5 @@
 {% set name = "anthropic" %}
-{% set version = "0.14.1" %}
+{% set version = "0.15.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/anthropic-{{ version }}.tar.gz
-  sha256: fcefd21bbd8e2c6623fef3c94eaebcaf5aa80786b5760e967f60b3b86fab6ec7
+  sha256: f188037c09a86c993196967a7c4ca7b0c30a7f51b261a9360528b5104069c088
 
 build:
   noarch: python
