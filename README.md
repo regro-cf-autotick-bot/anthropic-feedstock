@@ -147,6 +147,7 @@ Feedstock Maintainers
 
 * [@jenan-anthropic](https://github.com/jenan-anthropic/)
 * [@mikelambert](https://github.com/mikelambert/)
+* [@moritzwilksch](https://github.com/moritzwilksch/)
 * [@siboehm](https://github.com/siboehm/)
 * [@x5a](https://github.com/x5a/)
 
