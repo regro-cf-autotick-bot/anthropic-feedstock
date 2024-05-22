@@ -30,6 +30,7 @@ requirements:
     - anyio >=3.5.0,<4
     - distro >=1.7.0,<2
     - tokenizers >=0.13.0
+    - jiter
 
 test:
   imports:
