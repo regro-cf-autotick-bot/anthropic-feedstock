@@ -7,7 +7,7 @@ package:
   version: {{ version }}
 
 source:
-    url: https://github.com/anthropics/anthropic-sdk-python/archive/v{{ version }}.tar.gz
+  url: https://github.com/anthropics/anthropic-sdk-python/archive/v{{ version }}.tar.gz
   sha256: ced376669a7794b8feeb4394d9e89c4e592851a3fa74c280dcb893ba9fb0e0e6
 
 build:
